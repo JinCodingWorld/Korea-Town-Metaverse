@@ -70,3 +70,27 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# 사용자 설정
+*.png
+*.wav
+3D Skybox/
+3Dfrk/
+ALP_Assets/
+Black Whale Studio/
+Bugchonmunhwa/
+FastMesh/
+Free UI Click Sound Effects Pack/
+GrassFlowers/
+GUI_Parts
+Gwanghwamun_Woldae Haetae/
+HDPRPDefaultResources/
+Jongmyo/
+KCDF/
+Kitchen table with chair/
+Korean_Traditional_Prop
+MRTK_Keyboard-main/
+QA_Books/
+SharpUI/
+Skyboxes/
+TirgamesAssets/
