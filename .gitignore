@@ -74,6 +74,8 @@ crashlytics-build.properties
 # 사용자 설정
 *.png
 *.wav
+*.mp4
+*.asset
 3D Skybox/
 3Dfrk/
 ALP_Assets/
@@ -94,3 +96,7 @@ QA_Books/
 SharpUI/
 Skyboxes/
 TirgamesAssets/
+Reversed Interactive/
+Photon/
+!PhotonUnityNetworking/
+!PhotonRealTime/
