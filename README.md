@@ -11,3 +11,10 @@
 5. 도전과제 및 해결과정
     - 생성된 2개의 룸에 입장하면 캐릭터가 생성되도록 구현하였는데, 사용자 본인의 모습이 카메라에 비쳐 시야를 방해하는 문제가 발생하였습니다.
     - 이에 따라 photonview의 프로퍼티를 통해 이 캐릭터가 본인이라면 렌더러를 꺼서 캐릭터의 모습이 보이지 않도록 하여 문제를 해결할 수 있었습니다.
+---
+## 게임 이미지
+![스크린샷 2024-10-25 211737](https://github.com/user-attachments/assets/f11ed152-063b-4583-b81b-2d0f61839457)
+![스크린샷 2024-10-25 212203](https://github.com/user-attachments/assets/b594cb1c-700f-4292-98d4-f362ca934783)
+![스크린샷 2024-10-25 212223](https://github.com/user-attachments/assets/e50e23bd-e37a-482a-9e7c-d9543b4adaa8)
+![스크린샷 2024-10-25 212344](https://github.com/user-attachments/assets/fd4ebb7b-9886-4c1e-8b1c-886f39efe71e)
+![스크린샷 2024-10-25 212526](https://github.com/user-attachments/assets/d3105cb4-bc70-458b-9f68-07af75f2501e)
